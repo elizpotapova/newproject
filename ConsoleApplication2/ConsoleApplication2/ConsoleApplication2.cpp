@@ -5,7 +5,7 @@
 #include <iostream>
 
 int main()
-{
+{ go
 	int a;
     std::cout << "Hello World!\n"; 
 }
